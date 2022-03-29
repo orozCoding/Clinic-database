@@ -23,3 +23,14 @@ CREATE TABLE treatments (
   name VARCHAR(100),
   PRIMARY KEY (id)
 );
+
+CREATE TABLE invoices ( 
+  id INT GENERATED ALWAYS AS IDENTITY NOT NULL,
+  total_amount DECIMAL,
+  generated_at TIMESTAMP,
+  payed_at TIMESTAMP,
+  medical_history_id INT,
+  PRIMARY KEY (id),
+  CONSTRAINT fk_medical_histories FOREIGN KEY(medical_history_id) REFERENCES medical_histories (id)
+);
+
