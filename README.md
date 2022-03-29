@@ -13,12 +13,12 @@ This repository includes files with plain SQL that can be used to recreate a dat
 
 ## Authors
 
-👤 **Author1**
+👤 **Tekle Gebreyohannes**
 
 - GitHub: [@gtekle](https://github.com/gtekle)
 - LinkedIn: [LinkedIn](https://linkedin.com/in/gtekle)
 
-👤 **Author2**
+👤 **Angel Orozco**
 
 - GitHub: [@orozCoding](https://github.com/orozCoding)
 - Twitter: [@orozCoding](https://twitter.com/orozCoding)
