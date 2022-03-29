@@ -1,8 +1,6 @@
 # curriculum-databases-projects-template
 
-> This template should be used for database related projects at Microverse.
-> Generate your own repository, update this README and edit all files content while working on projects. You should not be adding any new files unless asked otherwise.
-
+> Clinic database created based on a diagram, with the tables: medical_histories, patients, treatments, invoices, invoice_items.
 
 ## Getting Started
 
@@ -17,15 +15,14 @@ This repository includes files with plain SQL that can be used to recreate a dat
 
 👤 **Author1**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+- GitHub: [@gtekle](https://github.com/gtekle)
+- LinkedIn: [LinkedIn](https://linkedin.com/in/gtekle)
 
 👤 **Author2**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+- GitHub: [@orozCoding](https://github.com/orozCoding)
+- Twitter: [@orozCoding](https://twitter.com/orozCoding)
+- LinkedIn: [LinkedIn](https://linkedin.com/in/angel-orozco)
 
 ## 🤝 Contributing
 
@@ -39,9 +36,7 @@ Give a ⭐️ if you like this project!
 
 ## Acknowledgments
 
-- Hat tip to anyone whose code was used
-- Inspiration
-- etc
+- [Microverse](https://www.microverse.org/)
 
 ## 📝 License
 
