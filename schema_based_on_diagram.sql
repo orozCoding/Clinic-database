@@ -45,3 +45,10 @@ CREATE TABLE invoice_items (
   CONSTRAINT fk_invoices FOREIGN KEY(invoice_id) REFERENCES invoices (id),
   CONSTRAINT fk_treatments FOREIGN KEY(treatment_id) REFERENCES treatments (id)
 );
+
+CREATE TABLE medical_orders (
+  medical_history_id INT NOT NULL,
+  treatment_id INT NOT NULL,
+  CONSTRAINT fk_medical_histories FOREIGN KEY(medical_history_id) REFERENCES medical_histories (id),
+  CONSTRAINT fk_treatments FOREIGN KEY(treatment_id) REFERENCES treatments (id)
+);
